@@ -6,7 +6,7 @@
   "Resources": {
     "Infrastructure": {
       "Properties": {
-        "TemplateURL": "https://s3.amazonaws.com/downloads.mesosphere.io/dcos/stable/commit/fbec5b3732e80f2d5f65192539c49ba5ab9ab753/cloudformation/infra.json",
+        "TemplateURL": "https://raw.githubusercontent.com/AndySardina/dcos-aws/master/infra.json",
         "Parameters": {
           "KeyName": {
             "Ref": "KeyName"
